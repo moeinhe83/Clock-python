@@ -1,4 +1,4 @@
-Name Project : Digital Clock With Python 
+Name Project ===> Digital Clock With Python 
 
 Programming language ===> Python
 
