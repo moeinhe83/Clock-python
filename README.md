@@ -1,3 +1,5 @@
-Name Project : Making a digital clock with Python 
+Name Project : Digital Clock With Python 
+
+Programming language ===> Python
 
 Required packages ===> tkinter & time
