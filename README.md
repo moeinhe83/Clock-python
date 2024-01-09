@@ -1,5 +1,5 @@
-Program Name ===> Digital Clock With Python 
+Program Name => Digital Clock With Python 
 
-Programming language ===> Python
+Programming language => Python
 
-Required packages ===> tkinter & time
+Required packages => tkinter & time
