@@ -4,6 +4,6 @@ This Program Will Make A Digital Clock For You.
 
 Programming language ==> Python
 
-Required packages ==> tkinter & time
+Required Python packages for this program ===> tkinter & time
 
 To Run The Program ==> python clock.py
