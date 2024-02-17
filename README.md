@@ -1,4 +1,4 @@
-Program Name ==> Digital Clock With Python 
+Program Name ===> Digital Clock With Python 
 
 This Program Will Make A Digital Clock For You.
 
